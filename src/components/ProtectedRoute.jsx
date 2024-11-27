@@ -10,7 +10,7 @@ const ProtectedRoute = () => {
   }
   return (
     <>
-      <h1>보호된 페이지</h1>
+     
       <Outlet />
     </>
   );
